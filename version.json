@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "3.0.0",
-  "MinAllowedVersion": "3.0.0", 
+  "LatestVersion": "5.0.0",
+  "MinAllowedVersion": "5.0.0", 
   "UpdateUrl": "https://github.com/lonowin/FivemDecryptFixer/releases",
   "BlacklistedHWIDs": [],
   "VersionWhitelistHWIDs": [],
