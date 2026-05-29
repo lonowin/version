@@ -1,0 +1,10 @@
+{
+  "LatestVersion": "1.0.0",
+  "MinAllowedVersion": "1.0.0",
+  "UpdateUrl": "https://github.com/lonowin/FivemDecryptFixer/releases",
+  "BlacklistedHWIDs": [
+    "FIRST_BLOCKED_HWID_HERE",
+    "SECOND_BLOCKED_HWID_HERE"
+  ],
+  "CustomMessage": "This version is disabled for your device. Please download the latest version to continue."
+}
