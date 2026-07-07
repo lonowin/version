@@ -1,1 +1,186 @@
-
+{
+  "updated": "2026-07-07",
+  "author": "sofaygotech",
+  "scripts": {
+    "sf_bridge": {
+      "version": "1.0.0",
+      "description": "Framework Bridge By sofaygotech",
+      "author": "sofaygotech",
+      "category": "mechanic"
+    },
+    "sf-mechanic": {
+      "version": "1.0.0",
+      "description": "Advanced Mechanic Script",
+      "author": "sofaygotech",
+      "category": "mechanic"
+    },
+    "sf-jobgarage": {
+      "version": "1.0.0",
+      "description": "Job Vehicle Script",
+      "author": "sofaygotech",
+      "category": "mechanic"
+    },
+    "sf-core": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "Sofaygo",
+      "category": "house"
+    },
+    "sf-house": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "Sofaygo",
+      "category": "house"
+    },
+    "sf-drone": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "new"
+    },
+    "sf-nui": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "new"
+    },
+    "sf-racing": {
+      "version": "1.0.0",
+      "description": "Developed by Sofaygo - Racing script by Sofaygo",
+      "author": "Sofaygo",
+      "category": "racing"
+    },
+    "sf-admin": {
+      "version": "1.0.0",
+      "description": "Admin Menu",
+      "author": "sofaygo",
+      "category": "sofaygo"
+    },
+    "sf-jobcams": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "sofaygo"
+    },
+    "sf-lib-2": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "sofaygo"
+    },
+    "sf-note": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "sofaygo"
+    },
+    "sf-text": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "sofaygo"
+    },
+    "sf-ui": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "sofaygo"
+    },
+    "sf-contacts": {
+      "version": "1.0.0",
+      "description": "NPC Dialog System 4.0",
+      "author": "sofaygo",
+      "category": "addon"
+    },
+    "sf-interaction": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "addon"
+    },
+    "sf-status": {
+      "version": "1.0.0",
+      "description": "status-hud",
+      "author": "sofaygo",
+      "category": "addon"
+    },
+    "sf-textui": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "addon"
+    },
+    "sf-policeradar": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "radar"
+    },
+    "sf-atm": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "systeam"
+    },
+    "sf-elevators": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "systeam"
+    },
+    "sf-groups": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "systeam"
+    },
+    "sf-minigames": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "systeam"
+    },
+    "sf-newgames": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "systeam"
+    },
+    "sf-pacificbankrobbery": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "systeam"
+    },
+    "sf-roofrunning": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "systeam"
+    },
+    "sf-roofrunning_props": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "systeam"
+    },
+    "sf-vangelicoheist": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "systeam"
+    },
+    "sf-outfitbag": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo - Optimized & SoFaygo.",
+      "author": "SoFaygo",
+      "category": "sofaygo"
+    },
+    "sf-playermanagement": {
+      "version": "1.0.0",
+      "description": "Developed by SoFaygo.",
+      "author": "SoFaygo",
+      "category": "sofaygo"
+    }
+  }
+}
