@@ -1,186 +1,186 @@
 {
   "updated": "2026-07-07",
-  "author": "sofaygotech",
+  "author": "Euxiss",
   "scripts": {
-    "sf_bridge": {
+    "eux_bridge": {
       "version": "1.0.0",
-      "description": "Framework Bridge By sofaygotech",
-      "author": "sofaygotech",
+      "description": "Framework Bridge By Euxiss",
+      "author": "Euxiss",
       "category": "mechanic"
     },
-    "sf-mechanic": {
+    "eux-mechanic": {
       "version": "1.0.0",
       "description": "Advanced Mechanic Script",
-      "author": "sofaygotech",
+      "author": "Euxiss",
       "category": "mechanic"
     },
-    "sf-jobgarage": {
+    "eux-jobgarage": {
       "version": "1.0.0",
       "description": "Job Vehicle Script",
-      "author": "sofaygotech",
+      "author": "Euxiss",
       "category": "mechanic"
     },
-    "sf-core": {
+    "eux-core": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "Sofaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "house"
     },
-    "sf-house": {
+    "eux-house": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "Sofaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "house"
     },
-    "sf-drone": {
+    "eux-drone": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "new"
     },
-    "sf-nui": {
+    "eux-nui": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "new"
     },
-    "sf-racing": {
+    "eux-racing": {
       "version": "1.0.0",
-      "description": "Developed by Sofaygo - Racing script by Sofaygo",
-      "author": "Sofaygo",
+      "description": "Developed by Euxiss - Racing script by Euxiss",
+      "author": "Euxiss",
       "category": "racing"
     },
-    "sf-admin": {
+    "eux-admin": {
       "version": "1.0.0",
       "description": "Admin Menu",
-      "author": "sofaygo",
-      "category": "sofaygo"
+      "author": "Euxiss",
+      "category": "Euxiss"
     },
-    "sf-jobcams": {
+    "eux-jobcams": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
-      "category": "sofaygo"
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
+      "category": "Euxiss"
     },
-    "sf-lib-2": {
+    "eux-lib-2": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
-      "category": "sofaygo"
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
+      "category": "Euxiss"
     },
-    "sf-note": {
+    "eux-note": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
-      "category": "sofaygo"
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
+      "category": "Euxiss"
     },
-    "sf-text": {
+    "eux-text": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
-      "category": "sofaygo"
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
+      "category": "Euxiss"
     },
-    "sf-ui": {
+    "eux-ui": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
-      "category": "sofaygo"
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
+      "category": "Euxiss"
     },
-    "sf-contacts": {
+    "eux-contacts": {
       "version": "1.0.0",
       "description": "NPC Dialog System 4.0",
-      "author": "sofaygo",
+      "author": "Euxiss",
       "category": "addon"
     },
-    "sf-interaction": {
+    "eux-interaction": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "addon"
     },
-    "sf-status": {
+    "eux-status": {
       "version": "1.0.0",
       "description": "status-hud",
-      "author": "sofaygo",
+      "author": "Euxiss",
       "category": "addon"
     },
-    "sf-textui": {
+    "eux-textui": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "addon"
     },
-    "sf-policeradar": {
+    "eux-policeradar": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "radar"
     },
-    "sf-atm": {
+    "eux-atm": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "systeam"
     },
-    "sf-elevators": {
+    "eux-elevators": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "systeam"
     },
-    "sf-groups": {
+    "eux-groups": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "systeam"
     },
-    "sf-minigames": {
+    "eux-minigames": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "systeam"
     },
-    "sf-newgames": {
+    "eux-newgames": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "systeam"
     },
-    "sf-pacificbankrobbery": {
+    "eux-pacificbankrobbery": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "systeam"
     },
-    "sf-roofrunning": {
+    "eux-roofrunning": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "systeam"
     },
-    "sf-roofrunning_props": {
+    "eux-roofrunning_props": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "systeam"
     },
-    "sf-vangelicoheist": {
+    "eux-vangelicoheist": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
       "category": "systeam"
     },
-    "sf-outfitbag": {
+    "eux-outfitbag": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo - Optimized & SoFaygo.",
-      "author": "SoFaygo",
-      "category": "sofaygo"
+      "description": "Developed by Euxiss - Optimized & Euxiss.",
+      "author": "Euxiss",
+      "category": "Euxiss"
     },
-    "sf-playermanagement": {
+    "eux-playermanagement": {
       "version": "1.0.0",
-      "description": "Developed by SoFaygo.",
-      "author": "SoFaygo",
-      "category": "sofaygo"
+      "description": "Developed by Euxiss.",
+      "author": "Euxiss",
+      "category": "Euxiss"
     }
   }
 }
